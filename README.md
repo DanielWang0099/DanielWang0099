@@ -12,15 +12,14 @@ Welcome to my GitHub profile! I'm passionate about software development, specifi
 - 🛠️ **Skills:**
   - Programming Languages: Python, Java, C/C++
   - Tools & Frameworks: Tensorflow, Verilog. 
-  - Others: Nothing else, yet...
 
 ---
 
 ## 🏆 Projects & Contributions
 
 Here are some of my favorite projects:
-- 🚀 **[Future Project 1](link-to-project):** [---]
-- 🌟 **[Future Project 2](link-to-project):** [---]
+- 🚀 **[ESCENDO 2025: Lean solutions](https://github.com/DanielWang0099/github-portfolio/tree/main/ESCENDO2025)**
+- 🌟 **[LLM Microsoft Azure](https://github.com/DanielWang0099/github-portfolio/tree/main/LLM_MICROSOFT_AZURE)**
 
 Check out [my repositories](https://github.com/your-username?tab=repositories) for more!
 
@@ -29,8 +28,8 @@ Check out [my repositories](https://github.com/your-username?tab=repositories) f
 ## 📫 How to Reach Me
 
 Feel free to connect with me:
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📧 [danielwang0099@gmail.com](danielwang0099@gmail.com)
+- 📱+65 9454_1726  /  + 34 611_645_605
+- 📧 danielwang0099@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-wang-b11752292/)
 
 ---
@@ -38,7 +37,7 @@ Feel free to connect with me:
 ## ✨ Fun Facts About Me
 
 - 🌍 I'm from Madrid, Spain!
-- 🎮 I love videogames and learning about technology & business.
+- 🎮 I'm self-learning Japanese and discovering about technology & business.
 
 ---
 
