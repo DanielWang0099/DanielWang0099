@@ -21,7 +21,7 @@ Here are some of my favorite projects:
 - 🚀 **[ESCENDO 2025: Lean solutions](https://github.com/DanielWang0099/github-portfolio/tree/main/ESCENDO2025)**
 - 🌟 **[LLM Microsoft Azure](https://github.com/DanielWang0099/github-portfolio/tree/main/LLM_MICROSOFT_AZURE)**
 
-Check out [my repositories](https://github.com/your-username?tab=repositories) for more!
+Check out [my repositories](https://github.com/DanielWang0099?tab=repositories) for more!
 
 ---
 
