@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about software development, specifi
 
 ---
 
-## 🏆 Projects & Contributions
+## 🏆 Academic projects
 
 Here are some of my favorite projects:
 - 🚀 **[ESCENDO 2025: Lean solutions](https://github.com/DanielWang0099/github-portfolio/tree/main/ESCENDO2025)**
