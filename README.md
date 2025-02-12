@@ -33,16 +33,3 @@ Feel free to connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-wang-b11752292/)
 
 ---
-
-## ✨ Fun Facts About Me
-
-- 🌍 I'm from Madrid, Spain!
-- 🎮 I'm self-learning Japanese and discovering about technology & business.
-
----
-
-## 💬 Let's Collaborate!
-
-I'm always open to collaborating on interesting projects or discussing ideas. If you have something in mind, feel free to reach out!
-
-Thanks for stopping by! 😊
