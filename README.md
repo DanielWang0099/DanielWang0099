@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Daniel Wang!
 
-Welcome to my GitHub profile! I'm passionate about software development, specifically computer vision and machine learning. I enjoy learning about projects involving human-computer interaction and computer vision controlled systems!
+Welcome to my GitHub profile! I'm passionate about software development, specifically computer vision and machine learning.
 
 ---
 
