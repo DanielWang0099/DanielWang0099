@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about software development, specifi
 
 Here are some of my favorite projects:
 - 🚀 **[ESCENDO 2025: Lean solutions](https://github.com/DanielWang0099/github-portfolio/tree/main/ESCENDO2025)**
-- 🛡️ **[TruthGuard](https://github.com/DanielWang0099/github-portfolio/tree/main/LLM_MICROSOFT_AZURE](https://github.com/DanielWang0099/TruthGuard)**
+- 🛡️ **[TruthGuard](https://github.com/DanielWang0099/TruthGuard)**
 
 Check out [my repositories](https://github.com/DanielWang0099?tab=repositories) for more!
 
