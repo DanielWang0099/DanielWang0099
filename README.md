@@ -11,7 +11,6 @@ I'm passionate about **software development**, particularly in **computer vision
 - **Education:** B.Eng. in Computer Engineering @ NTU Singapore  
 - **Currently Learning:** Computer Vision and Machine Learning  
 - **Programming Languages:** Python, Java, C/C++  
-- **Tools & Frameworks:** TensorFlow, Verilog  
 - **Interests:** Embedded Systems, Automation, Applied AI  
 
 ---
