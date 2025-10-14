@@ -1,36 +1,37 @@
-# 👋 Hello, I'm Daniel Wang!
+# Hello, I'm Daniel Wang
 
-Welcome to my GitHub profile! I'm passionate about software development, specifically computer vision and machine learning.
+Welcome to my GitHub profile.  
+I'm an undergraduate student at **Nanyang Technological University (NTU), Singapore**, studying **Computer Engineering** with a focus on **Data Analytics**.  
 
----
-
-## 🌟 About Me
-
-- 💼 **Profession:** I am currently a computer engineering undergraduate student at NTU (Singapore).
-- 🎓 **Education:** Bachelor of Computer Engineering & Data Analytics at Nanyang Technological University (Singapore).
-- 🌱 **Currently Learning:** Computer Vision & Machine Learning
-- 🛠️ **Skills:**
-  - Programming Languages: Python, Java, C/C++
-  - Tools & Frameworks: Tensorflow, Verilog. 
+I'm passionate about **software development**, particularly in **computer vision** and **machine learning**, and I enjoy building practical, meaningful systems that solve real-world problems.  
 
 ---
 
-## 🏆 Academic projects
-
-Here are some of my favorite projects:
-- 🎯 **[BTO CLI Management System](https://github.com/DanielWang0099/SC2002)**
-- 🛡️ **[TruthGuard](https://github.com/DanielWang0099/TruthGuard)**
-- 🚀 **[ESCENDO 2025: Lean solutions](https://github.com/DanielWang0099/ESCENDO2025)**
-
-Check out [my repositories](https://github.com/DanielWang0099?tab=repositories) for more!
+## About Me  
+- **Education:** B.Eng. in Computer Engineering @ NTU Singapore  
+- **Currently Learning:** Computer Vision and Machine Learning  
+- **Programming Languages:** Python, Java, C/C++  
+- **Tools & Frameworks:** TensorFlow, Verilog  
+- **Interests:** Embedded Systems, Automation, Applied AI  
 
 ---
 
-## 📫 How to Reach Me
+## Projects  
+Some of my recent academic and personal projects:  
+- [BTO CLI Management System](https://github.com/DanielWang0099/SC2002)  
+- [TruthGuard](https://github.com/DanielWang0099/TruthGuard)  
+- [ESCENDO 2025: Lean Solutions](https://github.com/DanielWang0099/ESCENDO2025)  
 
-Feel free to connect with me:
-- 📱+65 9454_1726  /  + 34 611_645_605
-- 📧 danielwang0099@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-wang-b11752292/)
+You can find more in [my repositories](https://github.com/DanielWang0099?tab=repositories).
 
 ---
+
+## Contact  
+- **Email:** [danielwang0099@gmail.com](mailto:danielwang0099@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/daniel-wang-b11752292](https://www.linkedin.com/in/daniel-wang-b11752292/)  
+
+---
+
+## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielWang0099&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWang0099&layout=compact&theme=default&hide_border=true)
