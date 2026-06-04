@@ -1,0 +1,35 @@
+<svg width="1160" height="430" viewBox="0 0 1160 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Monthly commit history">
+  <rect width="1160" height="430" fill="#0d1117"/>
+  <defs>
+    <linearGradient id="activity-fill" x1="0" y1="44" x2="0" y2="356" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2ea043" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#2ea043" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#8b949e">
+    <line x1="70" y1="356.00" x2="1126" y2="356.00" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="58" y="360.00" text-anchor="end">0</text><line x1="70" y1="293.60" x2="1126" y2="293.60" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="58" y="297.60" text-anchor="end">10</text><line x1="70" y1="231.20" x2="1126" y2="231.20" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="58" y="235.20" text-anchor="end">20</text><line x1="70" y1="168.80" x2="1126" y2="168.80" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="58" y="172.80" text-anchor="end">30</text><line x1="70" y1="106.40" x2="1126" y2="106.40" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="58" y="110.40" text-anchor="end">40</text><line x1="70" y1="44.00" x2="1126" y2="44.00" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="58" y="48.00" text-anchor="end">50</text>
+    <line x1="70.00" y1="44" x2="70.00" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="70.00" y="384" text-anchor="middle">2025</text><line x1="132.12" y1="44" x2="132.12" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="194.24" y1="44" x2="194.24" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="194.24" y="384" text-anchor="middle">Mar</text><line x1="256.35" y1="44" x2="256.35" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="318.47" y1="44" x2="318.47" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="318.47" y="384" text-anchor="middle">May</text><line x1="380.59" y1="44" x2="380.59" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="442.71" y1="44" x2="442.71" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="442.71" y="384" text-anchor="middle">Jul</text><line x1="504.82" y1="44" x2="504.82" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="566.94" y1="44" x2="566.94" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="566.94" y="384" text-anchor="middle">Sep</text><line x1="629.06" y1="44" x2="629.06" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="691.18" y1="44" x2="691.18" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="691.18" y="384" text-anchor="middle">Nov</text><line x1="753.29" y1="44" x2="753.29" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="815.41" y1="44" x2="815.41" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="815.41" y="384" text-anchor="middle">2026</text><line x1="877.53" y1="44" x2="877.53" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="939.65" y1="44" x2="939.65" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="939.65" y="384" text-anchor="middle">Mar</text><line x1="1001.76" y1="44" x2="1001.76" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><line x1="1063.88" y1="44" x2="1063.88" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="1063.88" y="384" text-anchor="middle">May</text><line x1="1126.00" y1="44" x2="1126.00" y2="356" stroke="#30363d" stroke-width="1" stroke-dasharray="2 3" /><text x="1126.00" y="384" text-anchor="middle">Jun</text>
+    <text x="24" y="200.00" transform="rotate(-90 24 200.00)" text-anchor="middle">Commits</text>
+    <text x="1126" y="26" text-anchor="end">Total commits: 191</text>
+  </g>
+  <path d="M 70.00 331.04 C 80.35 333.12, 111.41 366.40, 132.12 343.52 C 152.82 320.64, 173.53 238.48, 194.24 193.76 C 214.94 149.04, 235.65 61.68, 256.35 75.20 C 277.06 88.72, 297.76 267.60, 318.47 274.88 C 339.18 282.16, 359.88 113.68, 380.59 118.88 C 401.29 124.08, 422.00 272.80, 442.71 306.08 C 463.41 339.36, 484.12 326.88, 504.82 318.56 C 525.53 310.24, 546.24 258.24, 566.94 256.16 C 587.65 254.08, 608.35 289.44, 629.06 306.08 C 649.76 322.72, 670.47 347.68, 691.18 356.00 C 711.88 364.32, 732.59 359.12, 753.29 356.00 C 774.00 352.88, 794.71 337.28, 815.41 337.28 C 836.12 337.28, 856.82 370.56, 877.53 356.00 C 898.24 341.44, 918.94 254.08, 939.65 249.92 C 960.35 245.76, 981.06 313.36, 1001.76 331.04 C 1022.47 348.72, 1043.18 352.88, 1063.88 356.00 C 1084.59 359.12, 1115.65 350.80, 1126.00 349.76 L 1126.00 356.00 L 70.00 356.00 Z" fill="url(#activity-fill)"/>
+  <path d="M 70.00 331.04 C 80.35 333.12, 111.41 366.40, 132.12 343.52 C 152.82 320.64, 173.53 238.48, 194.24 193.76 C 214.94 149.04, 235.65 61.68, 256.35 75.20 C 277.06 88.72, 297.76 267.60, 318.47 274.88 C 339.18 282.16, 359.88 113.68, 380.59 118.88 C 401.29 124.08, 422.00 272.80, 442.71 306.08 C 463.41 339.36, 484.12 326.88, 504.82 318.56 C 525.53 310.24, 546.24 258.24, 566.94 256.16 C 587.65 254.08, 608.35 289.44, 629.06 306.08 C 649.76 322.72, 670.47 347.68, 691.18 356.00 C 711.88 364.32, 732.59 359.12, 753.29 356.00 C 774.00 352.88, 794.71 337.28, 815.41 337.28 C 836.12 337.28, 856.82 370.56, 877.53 356.00 C 898.24 341.44, 918.94 254.08, 939.65 249.92 C 960.35 245.76, 981.06 313.36, 1001.76 331.04 C 1022.47 348.72, 1043.18 352.88, 1063.88 356.00 C 1084.59 359.12, 1115.65 350.80, 1126.00 349.76" stroke="#2ea043" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="70.00" cy="331.04" r="4.6" fill="#8b949e" />
+<circle cx="132.12" cy="343.52" r="4.6" fill="#8b949e" />
+<circle cx="194.24" cy="193.76" r="4.6" fill="#8b949e" />
+<circle cx="256.35" cy="75.20" r="4.6" fill="#8b949e" />
+<circle cx="318.47" cy="274.88" r="4.6" fill="#8b949e" />
+<circle cx="380.59" cy="118.88" r="4.6" fill="#8b949e" />
+<circle cx="442.71" cy="306.08" r="4.6" fill="#8b949e" />
+<circle cx="504.82" cy="318.56" r="4.6" fill="#8b949e" />
+<circle cx="566.94" cy="256.16" r="4.6" fill="#8b949e" />
+<circle cx="629.06" cy="306.08" r="4.6" fill="#8b949e" />
+<circle cx="691.18" cy="356.00" r="4.6" fill="#8b949e" />
+<circle cx="753.29" cy="356.00" r="4.6" fill="#8b949e" />
+<circle cx="815.41" cy="337.28" r="4.6" fill="#8b949e" />
+<circle cx="877.53" cy="356.00" r="4.6" fill="#8b949e" />
+<circle cx="939.65" cy="249.92" r="4.6" fill="#8b949e" />
+<circle cx="1001.76" cy="331.04" r="4.6" fill="#8b949e" />
+<circle cx="1063.88" cy="356.00" r="4.6" fill="#8b949e" />
+<circle cx="1126.00" cy="349.76" r="4.6" fill="#8b949e" />
+</svg>

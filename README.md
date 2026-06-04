@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="100%">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielWang0099&amp;theme=github-compact&amp;hide_title=true&amp;hide_border=true&amp;area=true" alt="GitHub activity graph" />
+      <img width="100%" src="./assets/monthly-commits.svg" alt="GitHub activity graph" />
     </td>
   </tr>
 </table>
