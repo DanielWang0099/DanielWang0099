@@ -10,4 +10,9 @@
       <img width="100%" src="./assets/monthly-commits.svg" alt="GitHub activity graph" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img width="320" src="claude_money_dino_whip.gif" alt="Claude Code money rain and dino whip animation" />
+    </td>
+  </tr>
 </table>
