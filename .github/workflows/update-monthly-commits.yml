@@ -1,0 +1,59 @@
+name: Update monthly commit graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/generate_monthly_commits.py
+      - .github/workflows/update-monthly-commits.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate SVG
+        run: python scripts/generate_monthly_commits.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: DanielWang0099
+
+      - name: Use generated SVG in README
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          text = readme.read_text()
+          text = text.replace(
+              "https://github-readme-activity-graph.vercel.app/graph?username=DanielWang0099&amp;theme=github-compact&amp;hide_title=true&amp;hide_border=true&amp;area=true",
+              "./assets/monthly-commits.svg",
+          )
+          readme.write_text(text)
+          PY
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md assets/monthly-commits.svg; then
+            echo "Monthly commit graph is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/monthly-commits.svg
+          git commit -m "Update monthly commit graph"
+          git push
